@@ -16,7 +16,7 @@
     "expo-linear-gradient": "latest",
     "expo-status-bar": "latest",
     "expo-updates": "latest",
-    "react": "18.3.1",
+    "react": "19.0.0",
     "react-native": "0.79.0",
     "react-native-gesture-handler": "latest",
     "react-native-safe-area-context": "latest",
