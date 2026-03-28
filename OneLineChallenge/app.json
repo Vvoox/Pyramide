@@ -19,6 +19,17 @@
         "backgroundColor": "#0f0f23"
       },
       "package": "com.yourapp.onelinechallenge"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "replace-with-your-eas-project-id"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/replace-with-your-eas-project-id"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
     }
   }
 }
