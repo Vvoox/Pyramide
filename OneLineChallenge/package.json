@@ -9,24 +9,24 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@react-native-async-storage/async-storage": "1.21.0",
+    "@react-native-async-storage/async-storage": "latest",
     "@react-navigation/native": "^6.1.9",
     "@react-navigation/native-stack": "^6.9.17",
-    "expo": "~50.0.17",
-    "expo-linear-gradient": "~13.0.2",
-    "expo-status-bar": "~1.11.1",
-    "expo-updates": "~0.24.11",
-    "react": "18.2.0",
-    "react-native": "0.73.6",
-    "react-native-gesture-handler": "~2.14.0",
-    "react-native-reanimated": "~3.6.2",
-    "react-native-safe-area-context": "4.8.2",
-    "react-native-screens": "~3.29.0",
-    "react-native-svg": "14.1.0"
+    "expo": "~54.0.0",
+    "expo-linear-gradient": "latest",
+    "expo-status-bar": "latest",
+    "expo-updates": "latest",
+    "react": "18.3.1",
+    "react-native": "0.79.0",
+    "react-native-gesture-handler": "latest",
+    "react-native-reanimated": "latest",
+    "react-native-safe-area-context": "latest",
+    "react-native-screens": "latest",
+    "react-native-svg": "latest"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
-    "@types/react": "~18.2.45",
+    "@types/react": "~18.3.0",
     "typescript": "^5.3.0"
   },
   "private": true
