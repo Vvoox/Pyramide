@@ -26,10 +26,9 @@
       }
     },
     "updates": {
-      "url": "https://u.expo.dev/6dfb19c7-821d-4276-97fe-7683ea90220e"
-    },
-    "runtimeVersion": {
-      "policy": "appVersion"
+      "url": "https://u.expo.dev/6dfb19c7-821d-4276-97fe-7683ea90220e",
+      "enabled": true,
+      "fallbackToCacheTimeout": 0
     }
   }
 }
