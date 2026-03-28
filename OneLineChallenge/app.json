@@ -18,7 +18,8 @@
       "adaptiveIcon": {
         "backgroundColor": "#0f0f23"
       },
-      "package": "com.vvoox.onelinechallenge"
+      "package": "com.vvoox.onelinechallenge",
+      "versionCode": 1
     },
     "extra": {
       "eas": {
