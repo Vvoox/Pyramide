@@ -22,11 +22,11 @@
     },
     "extra": {
       "eas": {
-        "projectId": "replace-with-your-eas-project-id"
+        "projectId": "6dfb19c7-821d-4276-97fe-7683ea90220e"
       }
     },
     "updates": {
-      "url": "https://u.expo.dev/replace-with-your-eas-project-id"
+      "url": "https://u.expo.dev/6dfb19c7-821d-4276-97fe-7683ea90220e"
     },
     "runtimeVersion": {
       "policy": "appVersion"
