@@ -12,13 +12,13 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.yourapp.onelinechallenge"
+      "bundleIdentifier": "com.vvoox.onelinechallenge"
     },
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#0f0f23"
       },
-      "package": "com.yourapp.onelinechallenge"
+      "package": "com.vvoox.onelinechallenge"
     },
     "extra": {
       "eas": {
